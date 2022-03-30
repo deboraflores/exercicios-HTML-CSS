@@ -1,0 +1,30 @@
+body {
+    background-color: #b3aeae;
+}
+#div1 {
+    background-color: #ffffff;
+    height: 500px;
+    width:50vw;
+    border: #000000 10px dotted;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+#div2 {
+    background-color: #ffff00;
+    height: 50px;
+    width: 30%;
+}
+#div3 {
+    background-color: #ff8c00;
+    height: 100px;
+    width: 30%;
+}
+#div4 {
+    background-color: #008000;
+    color: #ffffff;
+    font-size: 30px;
+    border: 50px;
+    margin-top:50px;
+    margin-left:50px;
+}
